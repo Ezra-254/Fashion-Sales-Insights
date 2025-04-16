@@ -1,4 +1,12 @@
 # Fashion-Sales-Insights
+This project involves a comprehensive analysis of a fashion retail dataset to uncover key business insights across sales performance, customer behavior, time-based trends, and inventory management.The analysis provides data-driven insights to support decision-making in areas such as marketing strategy, inventory planning, customer engagement, and operational efficiency.
+
+# 🔧 Tools Used:
+SQL – For data extraction, aggregation, and analysis
+
+Python (Matplotlib, Seaborn) – For data visualization and trend plotting
+
+PowerPoint – For creating a clear, visual presentation of insights
 
  # Objectives of the Analysis
 The main objectives of this fashion sales analysis are:
